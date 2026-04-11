@@ -1,0 +1,50 @@
+{
+  "name": "development-plugin-for-avalonia",
+  "version": "0.1.0",
+  "description": "Build, review, design, port, and migrate Avalonia applications through focused skills for app architecture, styling, rendering, platform services, design systems, and framework migration.",
+  "author": {
+    "name": "Wiesław Šoltés",
+    "email": "wieslawsoltes@users.noreply.github.com",
+    "url": "https://github.com/wieslawsoltes"
+  },
+  "homepage": "https://github.com/wieslawsoltes/development-plugin-for-avalonia",
+  "repository": "https://github.com/wieslawsoltes/development-plugin-for-avalonia",
+  "license": "MIT",
+  "keywords": [
+    "avalonia",
+    "xaml",
+    "csharp",
+    "desktop-ui",
+    "cross-platform",
+    "design-system",
+    "wpf",
+    "winforms",
+    "winui",
+    "migration"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Development Plugin for Avalonia",
+    "shortDescription": "Focused skills for building and porting Avalonia apps",
+    "longDescription": "Use Development Plugin for Avalonia to build or review Avalonia applications, route work into focused startup, styling, rendering, platform, and testing workflows, and handle HTML/CSS, WinForms, WPF, WinUI, and Avalonia 12 migration lanes without drifting away from the pinned Avalonia 11.3.12 guidance.",
+    "developerName": "Wiesław Šoltés",
+    "category": "Coding",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/wieslawsoltes/development-plugin-for-avalonia",
+    "privacyPolicyURL": "https://github.com/wieslawsoltes/development-plugin-for-avalonia/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/wieslawsoltes/development-plugin-for-avalonia/blob/main/TERMS.md",
+    "defaultPrompt": [
+      "Build a modern Avalonia app and route the work to the right specialist skill",
+      "Port this WPF, WinForms, WinUI, or HTML UI to Avalonia",
+      "Review an Avalonia project for AOT-safe bindings, styling, and performance"
+    ],
+    "brandColor": "#0F6CBD",
+    "composerIcon": "./assets/development-plugin-for-avalonia-icon.png",
+    "logo": "./assets/development-plugin-for-avalonia-logo.png",
+    "screenshots": []
+  }
+}
